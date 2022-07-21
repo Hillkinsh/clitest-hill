@@ -1,0 +1,23 @@
+{
+  "name": "clitest-hill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "clitest": "bin/index"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hillkinsh/clitest-hill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hillkinsh/clitest-hill/issues"
+  },
+  "homepage": "https://github.com/Hillkinsh/clitest-hill#readme"
+}
