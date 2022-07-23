@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/Hillkinsh/clitest-hill/issues"
   },
-  "gitHead": "11250907663347ae93ab729cf5ff01e92edf25b8"
+  "gitHead": "7e4290d31cc92b1e06aa76dfcfdbc8bf830090ea",
+  "publishConfig": {
+    "access": "public"
+  }
 }
