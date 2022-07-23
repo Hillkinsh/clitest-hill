@@ -1,0 +1,26 @@
+{
+  "name": "@clitest-hill/util",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xuqingshan <xuqingshan@tianyancha.com>",
+  "homepage": "https://github.com/Hillkinsh/clitest-hill/tree/main/packages/util#readme",
+  "license": "ISC",
+  "main": "lib/util.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hillkinsh/clitest-hill.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Hillkinsh/clitest-hill/issues"
+  }
+}
