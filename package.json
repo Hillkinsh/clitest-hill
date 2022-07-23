@@ -1,10 +1,13 @@
 {
   "name": "clitest-hill",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "clitest": "bin/index"
+    "clitest": "bin/index.js"
+  },
+  "dependencies": {
+    "clitest-hill-lib": "^1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/Hillkinsh/clitest-hill/issues"
   },
-  "homepage": "https://github.com/Hillkinsh/clitest-hill#readme"
+  "homepage": "https://github.com/Hillkinsh/clitest-hill#readme",
+  "devDependencies": {
+    "lerna": "^5.2.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
